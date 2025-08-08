@@ -1,0 +1,12 @@
+click==8.2.1
+faiss_cpu==1.11.0.post1
+PyMuPDF==1.26.3
+huggingface_hub==0.33.4
+mlx==0.26.5
+mlx_lm==0.26.0
+mlx_metal==0.26.5
+numpy
+openai==1.97.1
+PyPDF2==3.0.1
+python-dotenv==1.1.1
+reportlab==4.4.3
